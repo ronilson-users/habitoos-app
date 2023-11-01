@@ -15,13 +15,16 @@ import {
 } from '@react-navigation/native';
 import data from './data.json';
 
-export default function FeedScreen() {
-  const navigation = useNavigation();
+export default function FeedScreen({navigation}) {
+ // const navigation = useNavigation();
   const handleCardClick = (card) => {
-    navigation.navigate('Detalhes', {
-      card
+    navigation.navigate('DetalhesScreen', {
+     
+   card 
     });
   };
+  
+ 
 
   const [searchText,
     setSearchText] = useState('');
