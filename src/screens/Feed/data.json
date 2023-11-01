@@ -1,0 +1,185 @@
+{
+  "userName": "Ronilson",
+  "creditarNfiscal": [
+    {
+      "title": "Supermercado Extra",
+      "location": "cod7893-43",
+      "content": [
+        {
+          "nome": "Arroz Camil",
+          "cdBarras": 789040421676,
+          "descricao": "Arroz Polido tipo 1",
+          "preco": 20.50,
+          "quant": 1,
+          "vTCompras": 20.50,
+          "ganhos": [
+            {
+              "ganhosProdut": 0.5,
+              "ganhosEstab": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Relojoaria Centro Oeste",
+      "location": "cod1234-56",
+      "content": [
+        {
+          "nome": "Pão Francês",
+          "cdBarras": 123456789012,
+          "descricao": "Pão tradicional",
+          "preco": 2.00,
+          "quant": 5,
+          "vTCompras": 10.00,
+          "ganhos": [
+            {
+              "ganhosProdut": 0.2,
+              "ganhosEstab": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Material de Construcao Centro Sul",
+      "location": "cod1234-56",
+      "content": [
+        {
+          "nome": "Pão Francês",
+          "cdBarras": 123456789012,
+          "descricao": "Pão tradicional",
+          "preco": 2.00,
+          "quant": 5,
+          "vTCompras": 10.00,
+          "ganhos": [
+            {
+              "ganhosProdut": 0.2,
+              "ganhosEstab": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mini Mercado Catarina",
+      "location": "cod1234-56",
+      "content": [
+        {
+          "nome": "Pão Francês",
+          "cdBarras": 123456789012,
+          "descricao": "Pão tradicional",
+          "preco": 2.00,
+          "quant": 5,
+          "vTCompras": 10.00,
+          "ganhos": [
+            {
+              "ganhosProdut": 0.2,
+              "ganhosEstab": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Padoca Do Tio Dois Irmao",
+      "location": "cod1234-56",
+      "content": [
+        {
+          "nome": "Pão Francês",
+          "cdBarras": 123456789012,
+          "descricao": "Pão tradicional",
+          "preco": 2.00,
+          "quant": 5,
+          "vTCompras": 10.00,
+          "ganhos": [
+            {
+              "ganhosProdut": 0.2,
+              "ganhosEstab": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Padaria Juliana",
+      "location": "cod1234-56",
+      "content": [
+        {
+          "nome": "Pão Francês",
+          "cdBarras": 123456789012,
+          "descricao": "Pão tradicional",
+          "preco": 2.00,
+          "quant": 5,
+          "vTCompras": 10.00,
+          "ganhos": [
+            {
+              "ganhosProdut": 0.2,
+              "ganhosEstab": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Padaria Central",
+      "location": "cod1234-56",
+      "content": [
+        {
+          "nome": "Pão Francês",
+          "cdBarras": 123456789012,
+          "descricao": "Pão tradicional",
+          "preco": 2.00,
+          "quant": 5,
+          "vTCompras": 10.00,
+          "ganhos": [
+            {
+              "ganhosProdut": 0.2,
+              "ganhosEstab": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Casa de Carnes Centro Oeste",
+      "location": "cod1234-56",
+      "content": [
+        {
+          "nome": "Pão Francês",
+          "cdBarras": 123456789012,
+          "descricao": "Pão tradicional",
+          "preco": 2.00,
+          "quant": 5,
+          "vTCompras": 10.00,
+          "ganhos": [
+            {
+              "ganhosProdut": 0.2,
+              "ganhosEstab": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Farmacia Alan Viadinho",
+      "location": "cod5678-90",
+      "content": [
+        {
+          "nome": "Aspirina",
+          "cdBarras": 789101112131,
+          "descricao": "Medicamento para dor",
+          "preco": 5.50,
+          "quant": 2,
+          "vTCompras": 11.00,
+          "ganhos": [
+            {
+              "ganhosProdut": 0.3,
+              "ganhosEstab": 0.6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
