@@ -7,10 +7,12 @@ import {
  StyleSheet
 } from 'react-native';
 
+
 export default function DashBoardScreens() {
  return (
   <View style={styles.container}>
    <Text>DashBoardScreens</Text>
+   
   </View>
  );
 }

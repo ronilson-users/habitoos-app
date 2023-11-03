@@ -1,16 +1,21 @@
-/** @format */
-
-import { StatusBar } from 'expo-status-bar';
+import React from 'react';
+import { View, StyleSheet, Text, StatusBar } from 'react-native';
+import {
+  SafeAreaProvider,
+  useSafeAreaInsets
+} from 'react-native-safe-area-context';
 
 import { NavigationContainer } from '@react-navigation/native';
 
 import AppNavigation from './src/routes/AppNavigation';
 
+
+import AuthNavigation from './src/routes/AuthNavigation';
+
 export default function App() {
- return (
-  <NavigationContainer>
-   <StatusBar style='auto' />
-   <AppNavigation />
-  </NavigationContainer>
- );
+  return (
+    <NavigationContainer>
+      <AuthNavigation />
+    </NavigationContainer>
+  );
 }
